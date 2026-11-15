@@ -1,0 +1,11 @@
+#pragma once
+
+#define IDI_APP_ICON 101
+
+#define IDD_SETTINGS 200
+#define IDC_HOTKEY_CTRLALT 201
+#define IDC_HOTKEY_SHIFTALT 202
+#define IDC_AUTOSTART 203
+#define IDC_STATUS 204
+#define IDC_HIDE 205
+#define IDC_HOTKEY_GROUP 206

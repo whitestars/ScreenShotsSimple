@@ -1,0 +1,47 @@
+# CMake / 构建产物
+build/
+out/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vs/
+
+# MSVC 中间文件与二进制产物
+*.obj
+*.iobj
+*.ipdb
+*.pdb
+*.idb
+*.ilk
+*.exp
+*.lib
+*.exe
+*.dll
+*.tlog
+*.tlog/
+*.lastbuildstate
+*.recipe
+*.log
+
+# 编辑器 / 操作系统 / 本地工具缓存
+.vscode/
+.idea/
+.codebuddy/
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# 本地配置与敏感信息
+.env
+.env.*
+*.local
+*.user
+secrets.*
